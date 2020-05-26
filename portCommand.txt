@@ -1,0 +1,1 @@
+cat ~/Documents/Academics/BTP/Thesis/tex/FPM.tex | ncat -lk 9999

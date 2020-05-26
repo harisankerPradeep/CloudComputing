@@ -1,0 +1,7 @@
+Traceback (most recent call last):
+  File "/home/harisanker24/Documents/Academics/Cloud_Computing/Assignment5/sparkCode/./main.py", line 34, in <module>
+    from pyspark.ml.fpm import FPGrowth
+  File "/home/harisanker24/Documents/Academics/Cloud_Computing/Assignment5/spark/python/lib/pyspark.zip/pyspark/ml/__init__.py", line 22, in <module>
+  File "/home/harisanker24/Documents/Academics/Cloud_Computing/Assignment5/spark/python/lib/pyspark.zip/pyspark/ml/base.py", line 24, in <module>
+  File "/home/harisanker24/Documents/Academics/Cloud_Computing/Assignment5/spark/python/lib/pyspark.zip/pyspark/ml/param/__init__.py", line 26, in <module>
+ModuleNotFoundError: No module named 'numpy'
